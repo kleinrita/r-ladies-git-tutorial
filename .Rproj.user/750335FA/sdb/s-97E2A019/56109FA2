@@ -1,0 +1,18 @@
+{
+    "contents" : "# My first program in R Programming\nmyString <- \"Hello, World!\"\n\nprint ( myString)",
+    "created" : 1517427194074.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2858307757",
+    "id" : "56109FA2",
+    "lastKnownWriteTime" : 1517427224,
+    "path" : "C:/Users/RitaKl/rladies/gitrepos/r-ladies-git-tutorial/my_R_script.R",
+    "project_path" : "my_R_script.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
